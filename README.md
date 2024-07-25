@@ -1,2 +1,2 @@
-Repository for the course "Program Design (1)" in Department of Computer Science and Information Engineering, National Cheng Kung University
+Repository for the course "Introduction to Computers and Programming" in Department of Computer Science, National Yang Ming Chiao Tung University
 
